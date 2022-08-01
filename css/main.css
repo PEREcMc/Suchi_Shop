@@ -187,6 +187,19 @@ h3, h4 {
 .none {
 	display: none;
 }
+
+
 .form-control:not(:last-child) {
 	margin-bottom: 10px;
+}
+.display-4 {
+	font-family: 'Merriweather', serif;
+	font-weight: 500;
+	color: #fff;
+	margin-bottom: 10px;
+}
+.lead {
+	font-family: 'Merriweather', serif;
+	color: #fff;
+	font-weight: 500;
 }
